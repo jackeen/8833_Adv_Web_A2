@@ -1,0 +1,116 @@
+\documentclass[12pt,letterpaper]{article}
+
+% ========== packages ==========
+\usepackage[american]{babel}
+\usepackage{csquotes}
+\usepackage[natbibapa]{apacite}
+\usepackage[margin=1in]{geometry}       
+\usepackage{setspace}
+\usepackage{times}
+\usepackage[T1]{fontenc}
+\usepackage{hyperref}
+\usepackage{fancyhdr} % page head and foot
+\usepackage{graphicx}
+
+% ========== hyperlink setting ==========
+\hypersetup{
+    colorlinks=true,
+    linkcolor=black,
+    citecolor=black,
+    urlcolor=black,
+    pdfstartview=FitH,
+    breaklinks=true
+}
+
+
+% ========== page setting ==========
+\doublespacing
+\setlength{\headheight}{14.5pt}
+\addtolength{\topmargin}{-2.5pt}
+
+% ========== page head ==========
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[R]{\thepage}
+% \fancyhead[L]{\textsc{Running Head: YOUR TITLE}}
+\renewcommand{\headrulewidth}{0pt}
+
+% title page head
+\fancypagestyle{titlepage}{
+    \fancyhf{}
+    \fancyhead[R]{\thepage}
+    % \fancyhead[L]{\textsc{Running Head: YOUR TITLE}}
+}
+
+% ========== section style ==========
+\usepackage{titlesec}
+\titleformat{\section}{\normalfont\bfseries\centering}{\thesection}{1em}{}
+\titleformat{\subsection}{\normalfont\bfseries}{\thesubsection}{1em}{}
+\titleformat{\subsubsection}{\normalfont\bfseries\itshape}{\thesubsubsection}{1em}{}
+
+% no section number
+\renewcommand{\thesection}{}
+\renewcommand{\thesubsection}{}
+\renewcommand{\thesubsubsection}{}
+
+\begin{document}
+
+% ========== title page ==========
+\thispagestyle{titlepage}
+\begin{center}
+    \vspace*{2in}
+
+    % title
+    {\Large\bfseries Hapai development examination report: \\
+    for a newly established travel agency}
+    
+    \vspace{1in}
+    
+    % authors
+    Henry Wang (1576324), Jia Zhang (1578438)
+    \\
+    Unitec \\
+    
+    
+    \vspace{0.5in}
+    
+    % student report do not need this
+    % Author Note \\
+    % \begin{flushleft}
+    % Your Name \\
+    
+    % Department Name, University Name.
+    
+    % Correspondence concerning this article should be addressed to Your Name, Department Name, University Name, Address. Email: your.email@university.edu
+    % \end{flushleft}
+\end{center}
+
+
+\newpage
+\tableofcontents
+
+
+\newpage
+% ========== content start ==========
+
+% Part A
+\input{RetentionAnalysis/intro_retention.tex}
+\input{RetentionAnalysis/building_relationship.tex}
+\input{RetentionAnalysis/offering_incentives.tex}
+\input{RetentionAnalysis/keeping_customer_engage.tex}
+\input{RetentionAnalysis/address_concerns.tex}
+\input{RetentionAnalysis/provide_quality_product.tex}
+
+% Part B
+\input{Salesforce/intro.tex}
+
+% Part C
+\input{Problems/intro.tex}
+
+
+% ========== reference ==========
+\newpage
+\bibliographystyle{apacite}
+\bibliography{ref_a, ref_b, ref_c}
+
+\end{document}
