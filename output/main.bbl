@@ -539,6 +539,198 @@ Rahman, F.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Salesforce%
+}{%
+Salesforce%
+}{%
+{\protect \APACyear {2023}}%
+}]{%
+SalesforceServiceCloud2025}
+\APACinsertmetastar {%
+SalesforceServiceCloud2025}%
+\begin{APACrefauthors}%
+Salesforce.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2023}{}{}.
+\newblock
+\APACrefbtitle {Let Your Customers Expect Exceptional Service with Service Cloud.} {Let your customers expect exceptional service with service cloud.}
+\newblock
+\begin{APACrefURL} \url{https://www.salesforce.com/au/hub/service/exceptional-service-from-salesforce-service-cloud/} \end{APACrefURL}
+\newblock
+\APACrefnote{Accessed: 2025-06-21}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Salesforce%
+}{%
+Salesforce%
+}{%
+{\protect \APACyear {2024}}%
+{\protect \APACexlab {{\protect \BCnt {1}}}}}]{%
+SalesforceEinstein2025}
+\APACinsertmetastar {%
+SalesforceEinstein2025}%
+\begin{APACrefauthors}%
+Salesforce.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2024{\protect \BCnt {1}}}{}{}.
+\newblock
+\APACrefbtitle {Einstein AI: Power Your CRM with Artificial Intelligence.} {Einstein ai: Power your crm with artificial intelligence.}
+\newblock
+\begin{APACrefURL} \url{https://demandblue.com/salesforce-einstein-ai-platform/} \end{APACrefURL}
+\newblock
+\APACrefnote{Accessed: 2025-06-21}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Salesforce%
+}{%
+Salesforce%
+}{%
+{\protect \APACyear {2024}}%
+{\protect \APACexlab {{\protect \BCnt {2}}}}}]{%
+SalesforceRevenueCloud2024}
+\APACinsertmetastar {%
+SalesforceRevenueCloud2024}%
+\begin{APACrefauthors}%
+Salesforce.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2024{\protect \BCnt {2}}}{}{}.
+\newblock
+\APACrefbtitle {Revenue Cloud: Streamline Revenue Processes.} {Revenue cloud: Streamline revenue processes.}
+\newblock
+\begin{APACrefURL} \url{https://help.salesforce.com/s/articleView?id=ind.revenue_lifecycle_management.htm&type=5} \end{APACrefURL}
+\newblock
+\APACrefnote{Accessed: 2025-06-21}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Salesforce%
+}{%
+Salesforce%
+}{%
+{\protect \APACyear {2025}}%
+{\protect \APACexlab {{\protect \BCnt {1}}}}}]{%
+SalesforceDataCloud2025}
+\APACinsertmetastar {%
+SalesforceDataCloud2025}%
+\begin{APACrefauthors}%
+Salesforce.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2025{\protect \BCnt {1}}}{}{}.
+\newblock
+\APACrefbtitle {Data Cloud.} {Data cloud.}
+\newblock
+\begin{APACrefURL} \url{https://www.salesforce.com/data/} \end{APACrefURL}
+\newblock
+\APACrefnote{Accessed: 2025-06-21}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Salesforce%
+}{%
+Salesforce%
+}{%
+{\protect \APACyear {2025}}%
+{\protect \APACexlab {{\protect \BCnt {2}}}}}]{%
+SalesforceDataManagement2024}
+\APACinsertmetastar {%
+SalesforceDataManagement2024}%
+\begin{APACrefauthors}%
+Salesforce.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2025{\protect \BCnt {2}}}{}{}.
+\newblock
+\APACrefbtitle {Data Management Best Practices for Salesforce CRM.} {Data management best practices for salesforce crm.}
+\newblock
+\begin{APACrefURL} \url{https://help.salesforce.com/s/articleView?id=000393223&type=1} \end{APACrefURL}
+\newblock
+\APACrefnote{Accessed: 2025-06-21}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Salesforce%
+}{%
+Salesforce%
+}{%
+{\protect \APACyear {2025}}%
+{\protect \APACexlab {{\protect \BCnt {3}}}}}]{%
+SalesforceMarketingCloud2025}
+\APACinsertmetastar {%
+SalesforceMarketingCloud2025}%
+\begin{APACrefauthors}%
+Salesforce.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2025{\protect \BCnt {3}}}{}{}.
+\newblock
+\APACrefbtitle {Marketing Cloud.} {Marketing cloud.}
+\newblock
+\begin{APACrefURL} \url{https://www.salesforce.com/marketing/} \end{APACrefURL}
+\newblock
+\APACrefnote{Accessed: 2025-06-21}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Salesforce%
+}{%
+Salesforce%
+}{%
+{\protect \APACyear {2025}}%
+{\protect \APACexlab {{\protect \BCnt {4}}}}}]{%
+SalesforceSalesCloud2025}
+\APACinsertmetastar {%
+SalesforceSalesCloud2025}%
+\begin{APACrefauthors}%
+Salesforce.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2025{\protect \BCnt {4}}}{}{}.
+\newblock
+\APACrefbtitle {Sales Cloud: Drive Growth with the Sales CRM.} {Sales cloud: Drive growth with the sales crm.}
+\newblock
+\begin{APACrefURL} \url{https://www.salesforce.com/au/sales/cloud/} \end{APACrefURL}
+\newblock
+\APACrefnote{Accessed: 2025-06-21}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Salesforce%
+}{%
+Salesforce%
+}{%
+{\protect \APACyear {2025}}%
+{\protect \APACexlab {{\protect \BCnt {5}}}}}]{%
+SalesforceSecurity2025}
+\APACinsertmetastar {%
+SalesforceSecurity2025}%
+\begin{APACrefauthors}%
+Salesforce.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2025{\protect \BCnt {5}}}{}{}.
+\newblock
+\APACrefbtitle {Salesforce Security and Privacy Overview.} {Salesforce security and privacy overview.}
+\newblock
+\begin{APACrefURL} \url{https://www.salesforce.com/products/platform/security/} \end{APACrefURL}
+\newblock
+\APACrefnote{Accessed: 2025-06-21}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Shafiee%
 \ \protect \BOthers {.}}{%
 Shafiee%
@@ -710,6 +902,30 @@ Sparks, B\BPBI A.%
 {\BBOQ}\APACrefatitle {Responding to negative online reviews: The effects of hotel responses on customer inferences of trust and concern} {Responding to negative online reviews: The effects of hotel responses on customer inferences of trust and concern}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Tourism Management}{53}{}{74--85}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Tableau%
+}{%
+Tableau%
+}{%
+{\protect \APACyear {2025}}%
+}]{%
+SalesforceTableau2025}
+\APACinsertmetastar {%
+SalesforceTableau2025}%
+\begin{APACrefauthors}%
+Tableau.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2025}{}{}.
+\newblock
+\APACrefbtitle {Tableau Cloud.} {Tableau cloud.}
+\newblock
+\begin{APACrefURL} \url{https://www.tableau.com/products/cloud-bi} \end{APACrefURL}
+\newblock
+\APACrefnote{Accessed: 2025-06-21}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
