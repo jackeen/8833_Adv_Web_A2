@@ -1,0 +1,25 @@
+\subsection{The Problem with Service Automation: Dehumanized Case Management}
+
+As mentioned previously, Salesforce Service Cloud offers powerful case management features during service automation, efficiently tracking, routing, and resolving issues from email, web, social media, and phone—all within a single interface. However, its automated and standardized workflows are inherently formulaic. At its core, the system is designed to manage “cases,” not the emotional states of customers.
+
+This creates a critical blind spot: the system lacks the native ability to detect frustration, disappointment, or anger in unstructured text, and cannot respond with genuine empathy. This is a major flaw, especially since effective service recovery depends on personalized apologies and empathetic communication to restore trust and confidence \cite{ahmadi2021}.
+
+\subsubsection{Solution: Empathetic Service Co-Pilot}
+
+An AI-powered “Empathetic Service Co-Pilot” would be integrated directly into the Salesforce Service Cloud interface—not to replace human agents, but to empower them. Core features include: 
+
+\begin{itemize}
+    \item Real-Time Emotion Analysis: As complaints arrive via any channel (email, chat, or transcribed calls), the system analyzes their content to detect emotional valence (positive, negative, neutral), specific emotions (e.g., anger, frustration, sadness), and urgency.
+    \item Agent-Facing Dashboard: Instead of seeing only a case summary, agents receive emotional insights like: "Customer is extremely frustrated due to not receiving a booking update. Emotion index: strongly negative."
+    \item Empathetic Response Suggestions: The system drafts several response options tailored to the issue and detected emotions. For example: "I completely understand how frustrating it must be not to have received your booking update. I sincerely apologize for the delay and am currently verifying your case."
+\end{itemize}
+
+\subsubsection{Technology: LLMs for Emotion Detection and Empathic Responses}
+
+For Emotion Analysis, we will use a domain-specific model fine-tuned for empathetic dialogue EMO\_SA, an academically validated model. Unlike general-purpose LLMs, EMO\_SA performs word-level emotional quantification, identifying subtle shifts. Its 32-category emotional dictionary enables deep and precise understanding of customer sentiment \cite{chen2023}. 
+
+For Empathetic Response tasks, the system will rely on models like CaiTI, fine-tuned on mental health counseling conversations. These models are trained to offer supportive, empathetic responses and foster self-reflection. This specialized training makes them ideal for diffusing tension and rebuilding customer trust \cite{nie2025}.
+
+Advantage: In summary, LLMs excel at understanding unstructured language, enabling real-time emotion detection from emails and chats. They support emotionally aware service by alerting agents to customer feelings and generating empathetic, personalized responses. This enhances trust, especially in emotionally driven industries like tourism. Open-source flexibility and enterprise integration options like Salesforce's BYOLLM also make deployment customizable and cost-effective \cite{salesforce2025}.
+
+Disadvantage: First, domain specificity often comes at the cost of general reasoning ability. Emotion-detection models that rely on predefined emotional categories may struggle with expressions that fall outside their lexicons or with subtle cultural and linguistic variations. At the same time, generative LLMs, while capable of producing empathetic responses, are vulnerable to hallucination, producing inaccurate or inappropriate content—especially when deployed in high-stakes or emotionally sensitive interactions. Their output quality is also tightly coupled to training data; if the data is biased or lacks diversity, the model may produce flawed responses \cite{xi2023rise}. Automating case management is functionally strong but lacks a human touch, with standardized workflows that feel formulaic by nature. This makes it effective for handling issues, yet limited in addressing the emotional needs of customers.

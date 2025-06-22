@@ -1,0 +1,45 @@
+\subsection{Enhancing User Security in Salesforce with Blockchain-Based Identity Verification}
+This service part of Customer Identity solutions, relies on centralized servers by storing and validating user credentials. This approach exposes vulnerabilities including single points of failure, data breaches, and unauthorized access. For instance, in 2023, Salesforce reported a phishing attack exposing user credentials highlighting the fragility of centralized systems \cite{zaytsev2023phishforce}. 
+
+users are limited to control their identity data in current system. They are relying on Salesforce's security measures. This can lead to overexposure of sensitive data, especially, when integrating with third-part systems, it is increasing the risk of data leaks.
+
+\subsubsection{Proposed Solution: Blockchain-Based Identity Verification}
+To address these issues, I propose integrating a blockchain-based decentralized identity (DID) system into Salesforce's Customer Identity platform. The users will have ability to manage their identities by cryptographic keys stored on a blockchain, which is self-sovereign identity (SSI), this solution allows users to authenticate without accessing to centralized data, finally, it is reducing the risks.
+
+The blockchain system will interact with existing identity management service of Salesforce by its APIs and relevant components. It is allowing seamless user authentication. For example, users can log in by a blockchain wallet with credentials. This aligns with Salesforce's prior blockchain explorations \cite{wan2021blockchain}
+
+\subsubsection{Blockchain-Based Identity Technical Description}
+
+The solution leverages a public blockchain for identity storage and verification. The key components include:
+
+\begin{itemize}
+    \item Decentralized Identifiers (DIDs): Unique identifiers for users, stored on the blockchain, following W3C DID standards.
+    \item Verifiable Credentials (VCs): Cryptographically signed credentials issued by trusted entities, stored off-chain but verified on-chain.
+    \item Smart Contracts: Automate authentication and access control, ensuring only authorized users access Salesforce resources.
+    \item Salesforce Integration: Custom Apex classes and Lightning Web Components (LWCs) connect Salesforce to the blockchain via APIs.
+\end{itemize}
+
+
+Advantages: Enhanced Security, it eliminates single points of failure and reduces breach risks. Cryptographic verification ensures mitigates phishing and credential theft; User Empowerment, users get control over their identity data, which enhances privacy and trust; Interoperability, The DID framework enables cross-platform identity verification, which allows users to reuse credentials across Salesforce services or other systems.
+
+Disadvantages and Challenges: Technical Complexity, to implement blockchain integration needs massive development effort. It increases project timelines and costs, and the developers also need to ensure compatibility with Salesforce's security model; Regulatory Compliance, in regions like China, the applications associated with blockchain are limited strictly, public blockchains may face restrictions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

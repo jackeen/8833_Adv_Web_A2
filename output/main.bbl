@@ -1,6 +1,33 @@
 \begin{thebibliography}{}
 
 \bibitem [\protect \citeauthoryear {%
+Ahmadi%
+\ \BBA {} Fakhimi%
+}{%
+Ahmadi%
+\ \BBA {} Fakhimi%
+}{%
+{\protect \APACyear {2021}}%
+}]{%
+ahmadi2021}
+\APACinsertmetastar {%
+ahmadi2021}%
+\begin{APACrefauthors}%
+Ahmadi, A.%
+\BCBT {}\ \BBA {} Fakhimi, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2021}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {How consumers' personalities, lifestyles and demographics predict SVOD genre and SVOD platform consumption} {How consumers' personalities, lifestyles and demographics predict svod genre and svod platform consumption}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Contemporary Marketing Science}{4}{3}{}.
+\newblock
+\APACrefnote{Article publication date: 3 December 2021; Issue publication date: 9 December 2021}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Barusman%
 , Rulian%
 \BCBL {}\ \BBA {} Susanto%
@@ -106,6 +133,38 @@ Chang, J.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Chen%
+, Yang%
+, Xiong%
+\BCBL {}\ \BBA {} Xiong%
+}{%
+Chen%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2023}}%
+}]{%
+chen2023}
+\APACinsertmetastar {%
+chen2023}%
+\begin{APACrefauthors}%
+Chen, J.%
+, Yang, S.%
+, Xiong, J.%
+\BCBL {}\ \BBA {} Xiong, Y.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2023}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {An effective emotion tendency perception model in empathic dialogue} {An effective emotion tendency perception model in empathic dialogue}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{PLOS ONE}{18}{3}{}.
+\newblock
+\APACrefnote{Published: March 10, 2023}
+\newblock
+\begin{APACrefDOI} \doi{10.1371/journal.pone.0282926} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Chetty%
 }{%
 Chetty%
@@ -127,6 +186,30 @@ Chetty, P.%
 \APAChowpublished {\url{https://www.projectguru.in/loyalty-programs-as-a-marketing-tactic-in-the-hospitality-industry/}}.
 \newblock
 \APACrefnote{Accessed: 2025-06-21}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Das%
+, Amini%
+\BCBL {}\ \BBA {} Wu%
+}{%
+Das%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2024}}%
+}]{%
+Badhan2024}
+\APACinsertmetastar {%
+Badhan2024}%
+\begin{APACrefauthors}%
+Das, B\BPBI C.%
+, Amini, M\BPBI H.%
+\BCBL {}\ \BBA {} Wu, Y.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2024}{}{}.
+\newblock
+\APACrefbtitle {Security and Privacy Challenges of Large Language Models: A Survey.} {Security and privacy challenges of large language models: A survey.}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -485,6 +568,38 @@ Nguyen, D\BPBI H.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Nie%
+\ \protect \BOthers {.}}{%
+Nie%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2025}}%
+}]{%
+nie2025}
+\APACinsertmetastar {%
+nie2025}%
+\begin{APACrefauthors}%
+Nie, J.%
+, {Shao, Hanya (Vera)}%
+, Fan, Y.%
+, Shao, Q.%
+, You, H.%
+, Preindl, M.%
+\BCBL {}\ \BBA {} Jiang, X.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2025}{jan}{}.
+\newblock
+{\BBOQ}\APACrefatitle {LLM based Conversational AI Therapist for Daily Functioning Screening and Psychotherapeutic Intervention via Everyday Smart Devices} {Llm based conversational ai therapist for daily functioning screening and psychotherapeutic intervention via everyday smart devices}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{ACM Trans. Comput. Healthcare}{}{}{}.
+\newblock
+\begin{APACrefURL} \url{https://doi.org/10.1145/3712299} \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1145/3712299} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Othman%
 , Hashim%
 \BCBL {}\ \BBA {} Abdul~Aziz%
@@ -536,6 +651,33 @@ Rahman, F.%
 \unskip\
 \newblock
 \APACaddressSchool {}{University of Nevada}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Raza%
+\ \BBA {} Ding%
+}{%
+Raza%
+\ \BBA {} Ding%
+}{%
+{\protect \APACyear {2019}}%
+}]{%
+raza2019progress}
+\APACinsertmetastar {%
+raza2019progress}%
+\begin{APACrefauthors}%
+Raza, S.%
+\BCBT {}\ \BBA {} Ding, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Progress in context-aware recommender systems — An overview} {Progress in context-aware recommender systems — an overview}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Computer Science Review}{31}{}{84--97}.
+\newblock
+\begin{APACrefDOI} \doi{10.1016/j.cosrev.2019.01.001} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -608,6 +750,30 @@ Salesforce.%
 \begin{APACrefURL} \url{https://help.salesforce.com/s/articleView?id=ind.revenue_lifecycle_management.htm&type=5} \end{APACrefURL}
 \newblock
 \APACrefnote{Accessed: 2025-06-21}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Salesforce}%
+}{%
+{Salesforce}%
+}{%
+{\protect \APACyear {2025}}%
+}]{%
+salesforce2025}
+\APACinsertmetastar {%
+salesforce2025}%
+\begin{APACrefauthors}%
+{Salesforce}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2025}{}{}.
+\newblock
+\APACrefbtitle {{AI Foundation Models in Customer 360}.} {{AI Foundation Models in Customer 360}.}
+\newblock
+\APAChowpublished {\url{https://help.salesforce.com/s/articleView?id=sf.c360_a_ai_foundation_models.htm&language=en_US&type=5}}.
+\newblock
+\APACrefnote{Accessed: 2025-06-22}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -1009,6 +1175,60 @@ Trebicka, B.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Wan%
+\ \BBA {} Li%
+}{%
+Wan%
+\ \BBA {} Li%
+}{%
+{\protect \APACyear {2021}}%
+}]{%
+wan2021blockchain}
+\APACinsertmetastar {%
+wan2021blockchain}%
+\begin{APACrefauthors}%
+Wan, Z.%
+\BCBT {}\ \BBA {} Li, Y.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2021}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A Blockchain-Based Framework for Secure Identity Management in Cloud Environments} {A blockchain-based framework for secure identity management in cloud environments}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Cloud Computing}{10}{1}{1--15}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Wei%
+\ \protect \BOthers {.}}{%
+Wei%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2024}}%
+}]{%
+wei2024tourllm}
+\APACinsertmetastar {%
+wei2024tourllm}%
+\begin{APACrefauthors}%
+Wei, Q.%
+, Yang, M.%
+, Wang, J.%
+, Mao, W.%
+, Xu, J.%
+\BCBL {}\ \BBA {} Ning, H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2024}{}{}.
+\newblock
+\APACrefbtitle {TourLLM: Enhancing LLMs with Tourism Knowledge.} {Tourllm: Enhancing llms with tourism knowledge.}
+\newblock
+\begin{APACrefURL} \url{https://arxiv.org/abs/2407.12791} \end{APACrefURL}
+\newblock
+\APACrefnote{Submitted 2 November 2024}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Whalen%
 \ \BBA {} Bowen%
 }{%
@@ -1031,6 +1251,38 @@ Whalen, E.%
 {\BBOQ}\APACrefatitle {Engaging the customer: the impacts of online travel community engagement on brand identification and behavioral intentions} {Engaging the customer: the impacts of online travel community engagement on brand identification and behavioral intentions}.{\BBCQ}
 \newblock
 \BIn{} \APACrefbtitle {Travel and Tourism Research Association: Advancing Tourism Research Globally} {Travel and tourism research association: Advancing tourism research globally}\ (\BVOL~15).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Xi%
+\ \protect \BOthers {.}}{%
+Xi%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2023}}%
+}]{%
+xi2023rise}
+\APACinsertmetastar {%
+xi2023rise}%
+\begin{APACrefauthors}%
+Xi, Z.%
+, Chen, W.%
+, Guo, X.%
+, He, W.%
+, Ding, Y.%
+, Hong, B.%
+\BDBL {}Gui, T.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2023}{}{}.
+\newblock
+\APACrefbtitle {The Rise and Potential of Large Language Model Based Agents: A Survey.} {The rise and potential of large language model based agents: A survey.}
+\newblock
+\begin{APACrefURL} \url{https://arxiv.org/abs/2309.07864} \end{APACrefURL}
+\newblock
+\APACrefnote{86 pages, 12 figures, arXiv:2309.07864v3}
+\newblock
+\begin{APACrefDOI} \doi{10.48550/arXiv.2309.07864} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -1058,6 +1310,57 @@ Xu, H.%
 {\BBOQ}\APACrefatitle {Understanding the influence of user-generated content on tourist loyalty behavior in a cultural World Heritage Site} {Understanding the influence of user-generated content on tourist loyalty behavior in a cultural world heritage site}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Tourism Recreation Research}{48}{2}{173--187}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Yildirim%
+}{%
+Yildirim%
+}{%
+{\protect \APACyear {2023}}%
+}]{%
+Yildirim2023}
+\APACinsertmetastar {%
+Yildirim2023}%
+\begin{APACrefauthors}%
+Yildirim, E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2023}{11}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Comparative Analysis Of Leonardo Ai, Midjourney, And Dall-E: Ai's Perspective On Future Cities} {Comparative analysis of leonardo ai, midjourney, and dall-e: Ai's perspective on future cities}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Urbanizm}{28}{}{82-96}.
+\newblock
+\begin{APACrefDOI} \doi{10.58225/urbanizm.2023-28-82-96} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Zaytsev%
+\ \BBA {} Tal%
+}{%
+Zaytsev%
+\ \BBA {} Tal%
+}{%
+{\protect \APACyear {2023}}%
+}]{%
+zaytsev2023phishforce}
+\APACinsertmetastar {%
+zaytsev2023phishforce}%
+\begin{APACrefauthors}%
+Zaytsev, O.%
+\BCBT {}\ \BBA {} Tal, N.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2023}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {PhishForce-Salesforce Zero-Day Exploitation} {Phishforce-salesforce zero-day exploitation}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Threat Intelligence Report}{}{}{}.
+\newblock
+\begin{APACrefURL} \url{https://www.threatintelreport.com} \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
 \end{thebibliography}

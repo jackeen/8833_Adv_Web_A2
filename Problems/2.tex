@@ -1,0 +1,24 @@
+\subsection{The Problem with Marketing Automation: Generic and Rigid Personalization}
+
+Similar to the issue of dehumanization in service automation, Salesforce also faces a critical limitation in its marketing automation capabilities. Specifically, Salesforce Marketing Cloud and Sales Cloud rely on static, demographic- and behavior-based customer segmentation. Users are placed into predefined "buckets" and moved along rigid, preset journeys. While it can personalize a greeting or suggest a product based on past purchases, it cannot generate truly novel, inspiring travel concepts that respond to a customer's unspoken desires. For example, if a customer enjoys historical fiction, follows hiking influencers on Instagram, and has booked cold-weather destinations in the past, the system lacks the ability to synthesize these fragments into a compelling suggestion—like "a 7-day Viking trail guided hike through Iceland."
+
+\subsubsection{Solution: Hyper-Personalization and Inspiration Engine}
+This solution envisions an engine that functions like an automated, endlessly creative travel advisor. It integrates with Salesforce Data Cloud, which consolidates all customer data into a unified 360-degree profile. Core Features include:
+
+\begin{itemize}
+    \item Deep Profile Synthesis: The engine ingests a full customer profile, including structured data (purchase history, loyalty tier) and unstructured data (reviews, social media activity, survey responses).
+    \item Generative Itinerary Creation: Rather than selecting from a preset list, the engine uses generative AI to craft original, narrative-rich travel itineraries—from flights and hotels to unique activities and dining—tailored to the customer's inferred personality and preferences.
+    \item Visual Concept Generation: To make inspiration tangible, the engine employs AI image generators to create unique “mood boards” or concept visuals for each proposed trip, going far beyond stock photography to provide emotional visual anchors.
+\end{itemize}
+
+\subsubsection{Technologies: Generative AI and Context-Aware Recommender Systems}
+
+For Itinerary Generation, at the core is a domain-specific, fine-tuned LLM such as TourLLM. It is based on Qwen1.5 and fine-tuned with the Cultour dataset, provides culturally rich and reliable travel suggestions tailored for the tourism sector \cite{wei2024tourllm}.
+
+For Visual Inspiration, Tools like OpenAI's DALL-E and Midjourney power the visual layer. DALL-E excels at photorealism and prompt accuracy, while Midjourney is ideal for stylized, artistic renderings. Travel businesses can generate visual content like "a cinematic image of a couple enjoying a private dinner at sunset on a Santorini balcony" to accompany personalized trip suggestions \cite{Yildirim2023}.
+
+For Contextualization, recommendations are optimized by Context-Aware Recommender Systems (CARS), which go beyond static profiles by incorporating real-time context such as time, location, weather, and social setting. For example, if a traveler is in Paris and it starts raining, the engine could proactively suggest a nearby museum aligned with the user's interests—achieved by formalizing preferences and context through ontologies \cite{raza2019progress}.
+
+Advantages: Fine-tuned LLMs offer strong domain adaptability, enabling them to understand travel-specific terminology and deliver personalized, high-quality itinerary suggestions. AI image generators excel at both precise execution and creative expression, enhancing marketing and brand identity. CARS increase the relevance of recommendations by incorporating real-time environmental factors, reducing information overload and improving user experience.
+
+Disadvantage: LLMs may struggle with strict constraints like budget or real-time availability and require high resource investment for fine-tuning. AI image generators face content restrictions, ethical concerns, and variable quality. At the same time, accessing customers' privatized information across multiple platforms and websites poses potential risks in terms of privacy and feasibility \cite{Badhan2024}. Salesforce Marketing Cloud suffers from a dehumanized approach, relying on static segmentation and rigid customer journeys. But in the travel industry, what's being sold is a dream and an experience—not just a product. It fails to create truly original, inspiring travel ideas that speak to customers' deeper, unspoken desires.
